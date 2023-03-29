@@ -1,0 +1,7 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Control_Unit_tb_func_synth xil_defaultlib.Control_Unit_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-8350] formal port 'counter_values' of mode 'inout' cannot be associated with actual port 'counter_values' of mode 'out' [C:/Users/lewic/OneDrive/Documents/GitHub/VHDLproject/CONTENTMENT BUTTONS.srcs/sim_1/new/control_unit_TB.vhd:55]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit control_unit_tb in library work failed.

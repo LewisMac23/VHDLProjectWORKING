@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lewic/OneDrive/Documents/GitHub/VHDLproject/CONTENTMENT BUTTONS.sim/sim_1/synth/func/xsim/Control_Unit_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Counter'
+INFO: [VRFC 10-3107] analyzing entity 'Display'
+INFO: [VRFC 10-3107] analyzing entity 'Control_Unit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lewic/OneDrive/Documents/GitHub/VHDLproject/CONTENTMENT BUTTONS.srcs/sim_1/new/control_unit_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Control_Unit_tb'

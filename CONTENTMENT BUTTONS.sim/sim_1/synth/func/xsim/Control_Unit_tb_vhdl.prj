@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"Control_Unit_tb_func_synth.vhd" \
+"../../../../../CONTENTMENT BUTTONS.srcs/sim_1/new/control_unit_TB.vhd" \
+
+# Do not sort compile order
+nosort
